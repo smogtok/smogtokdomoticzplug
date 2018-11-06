@@ -22,6 +22,17 @@ Data is get from SmogTok:
 - for probe id entered as a hardware parameter
 - from the nearest geografically probe - from localization settings
 
+# Devices
+
+Plugin automatically creates following devices:
+- IJP
+- Temperatura
+- Lokalizacja czujnika
+- PM 2,5 - % normy
+- PM 2,5
+- PM 10 - % normy
+- PM 10
+
 # Installation 
 To install a plugin:
 - get plugin.py file and install like any other python plugin (https://www.domoticz.com/wiki/Using_Python_plugins)
