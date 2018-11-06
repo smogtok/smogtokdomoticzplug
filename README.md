@@ -1,1 +1,3 @@
 # smogtokdomoticzplug
+
+test readme
