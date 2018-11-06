@@ -1,6 +1,15 @@
 # smogtok-plug
 Domoticz Python SmogTok plugin
 
+Smogtok is air quality (including smog) monitoring system, that includes:
+- multiple monitoring devices
+- central data aggregation server
+- visualisation web application - for desktop an mobile devices
+(Please contact us if needed english (or other) version of the monitoring application.
+https://smogtok.com
+smogtok@gmail.com)
+
+Plugin implementaion pulls the air quailty data to your home automation system.
 
 # How it works?
 
