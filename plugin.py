@@ -17,7 +17,7 @@
 #
 #
 """
-<plugin key="SmogTokPlug" name="SmogTok plugin" author="rafi" version="0.0.1" externallink="https://smogtok.com">
+<plugin key="SmogTokPlug" name="SmogTok plugin" author="smogtok" version="0.0.1" externallink="https://smogtok.com">
 	<description>
 		<h2>plugin SmogTok - monitorowanie jakości powietrza / air quality monitoring</h2><br/>
 		<img width="64px" src="https://smogtok.com/favicon.ico" /><br/>
