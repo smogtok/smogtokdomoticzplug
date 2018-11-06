@@ -2,7 +2,7 @@
 Domoticz Python SmogTok plugin
 
 
-This plugin 
+##This plugin 
 - pulls the air quailty data from SmogTok server
 - creates Domoticz devices - matching the input data from SmogTok
 - saves received data value to the devices
@@ -18,12 +18,10 @@ To install a plugin:
 
 
 
-TODO:
- - Debug level - decrease
+##TODO:
+ - ....
 
-
+#Notes
 
 BEWARE, this is a very early version. Use it on your test server first.
-
-
 Waiting for your comments!!!!
